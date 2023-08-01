@@ -1,0 +1,42 @@
+{
+  "features": [
+    {
+      "icon": "/assets/time.svg",
+      "title": "Build in minutes",
+      "description": "With a selection of premade templates, you cand buildo out a portfolio in less than 10 minutes"
+    },
+    {
+      "icon": "/assets/code.svg",
+      "title": "Add custom CSS",
+      "description": "Customizer your personal portfolio even more with the ability to add your own custom CSS styles"
+    },
+    {
+      "icon": "/assets/all-sizes.svg",
+      "title": "Responsive",
+      "description": "All Fiber templates are fully responsive to ensure the experience is seemless across all devices"
+    }
+  ],
+  "testimonies": [
+    {
+      "avatar": "/assets/user-avatar.svg",
+      "name": "Sarah Andrews",
+      "revenue": "$100k in revenue",
+      "testimonie": "Setting up my portfolio with Fiber took no more than 10 minutes. Since then, my portfolio has attracted a lot of clients and made me more than $100k",
+      "buttonTitle": "Sarah's"
+    },
+    {
+      "avatar": "/assets/user-avatar-2.svg",
+      "name": "Mathew Higgins",
+      "revenue": "$20k in revenue",
+      "testimonie": "I have been getting A LOT of leads ever since I used Fiber's premade templates, now I just need to work on my case studies and i'll be ready to go!",
+      "buttonTitle": "Mathew's"
+    },
+    {
+      "avatar": "/assets/user-avatar-3.svg",
+      "name": "Janice Dave",
+      "revenue": "$30k in revenue",
+      "testimonie": "I only just started freelancing this year and I have already made more than I ever made in my full-time job. The templates are just amazing",
+      "buttonTitle": "Janice's"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+.button {
+  padding: 0.75rem 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  font-weight: var(--font-weight-600);
+}
+
+.button:hover {
+  opacity: 0.8;
+}
+
+.primaryButton {
+  background-color: var(--principal-color);
+  color: var(--secondary-color);
+}
+
+.secondaryButton {
+  background-color: var(--secondary-color);
+  color: var(--principal-color);
+}
+
+.outlinedButton {
+  background-color: transparent;
+  color: var(--secondary-color);
+  border: 1px solid rgba(000, 000, 000, 0.1);
+}
+
+.cancelButton {
+  background-color: #880000;
+  color: var(--principal-color);
+}
